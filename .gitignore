@@ -21,3 +21,4 @@ Security files/
 8vim/release/
 
 fastlane/report.xml
+.aider*
